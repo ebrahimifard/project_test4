@@ -1,0 +1,4 @@
+fargo
+seasons: 3 (so far)
+genre: crime, drama
+score: 8/10
